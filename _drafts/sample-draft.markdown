@@ -7,7 +7,7 @@ excerpt: A sample draft post.
 
 ---
 
-This is just a sample draft post.
+我的blog.
 
 To view all drafts just run:
 
