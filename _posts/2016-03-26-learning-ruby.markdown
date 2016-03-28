@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 怎样快速学习一门语言
+title: 如何学习一门新的语言
 category: Meta
+author: 王哲
 
-excerpt:怎样才能更快的学习一门语言.
+excerpt: 如何学习一门新的语言
 
 ---
 
